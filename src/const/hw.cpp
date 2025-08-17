@@ -48,5 +48,5 @@ BrdConfigStruct brdConfigs[] = {
 //    {"TubesZB-poe-2023", 0, 6, 0}, // 11
 //    {"CZC-1.0", 2, 0, 1},          // 12
 //    {"HG POE Plus", 2, 0, 1},      // 13
-    {"YLZGBWG", 0, 0, 0},          // 14
+    {"YLZGB-GW", 0, 0, 0},          // 14
 };
